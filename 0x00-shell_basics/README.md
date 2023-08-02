@@ -4,3 +4,4 @@ This folder holds all the shell scripts for the project.
 2. This task "There is no place like home" is in the script 2-bring_me_home.
 3. This task "The long format" is in the script 3-listfiles.
 4. This task is "Hidden files" in the script 4-listmorefiles.
+5. This task "I love numbers" is in the script 5-listfilesdigitonly.
