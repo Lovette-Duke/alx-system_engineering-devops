@@ -16,3 +16,4 @@ This folder holds all the shell scripts for the project.
 14. This task "Copy HTML files" is in the script 14-copy_html.
 Advanced Tasks
 15. This task "Let’s move" is in the script 100-lets_move.
+16. This task "Clean Emacs" is in the script 101-clean_emacs.
