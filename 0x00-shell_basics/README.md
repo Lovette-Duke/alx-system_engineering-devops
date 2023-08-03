@@ -13,4 +13,6 @@ This folder holds all the shell scripts for the project.
 11. This task "Lists" is in the script 11-lists.
 12. This task "File type" is in the script 12-file_type.
 13. This task "We are symbols, and inhabit symbols" is in the script 13-symbolic_link.
-14. Thsi task "Copy HTML files" is in the script 14-copy_html.
+14. This task "Copy HTML files" is in the script 14-copy_html.
+Advanced Tasks
+15. This task "Let’s move" is in the script 100-lets_move.
