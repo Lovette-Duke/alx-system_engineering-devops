@@ -6,3 +6,5 @@ This folder holds all the shell scripts for the project.
 4. This task is "Hidden files" in the script 4-listmorefiles.
 5. This task "I love numbers" is in the script 5-listfilesdigitonly.
 6. This task "Welcome" is in the script 6-firstdirectory.
+7. This task "Betty in my first directory" is in the script 7-movethatfile.
+8. This task "Bye bye Betty" is in the script 8-firstdelete.
