@@ -8,3 +8,4 @@ This folder holds all the shell scripts for the project.
 6. This task "Welcome" is in the script 6-firstdirectory.
 7. This task "Betty in my first directory" is in the script 7-movethatfile.
 8. This task "Bye bye Betty" is in the script 8-firstdelete.
+9. This task "Bye bye My first directory" is in the script 9-firstdirdeletion.
