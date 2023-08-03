@@ -12,3 +12,5 @@ This folder holds all the shell scripts for the project.
 10. This task "Back to the future" is in the script 10-back.
 11. This task "Lists" is in the script 11-lists.
 12. This task "File type" is in the script 12-file_type.
+13. This task "We are symbols, and inhabit symbols" is in the sscript 13-symbolic_link.
+
