@@ -18,4 +18,4 @@ Advanced Tasks
 15. This task "Let’s move" is in the script 100-lets_move.
 16. This task "Clean Emacs" is in the script 101-clean_emacs.
 17. This task "Tree" is in the script 102-tree.
-
+18. This task "Life is a series of commas, not periods" is in the script 103-commas. 
