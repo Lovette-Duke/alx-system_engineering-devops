@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# using while loop to echo Best School
+
+i=9
+while [ "$i" -ge 0 ];
+do
+	echo "Best School"
+	i="$((i-1))"
+done
