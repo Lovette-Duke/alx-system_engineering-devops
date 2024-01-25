@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# prints all the files in a directiory
+
+for f in *;
+do
+	echo -e "$f" | cut -d "-" -f2
+done
