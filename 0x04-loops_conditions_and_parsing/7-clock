@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# echo time using while loop
+
+h=0
+while [ "$h" -le 12 ];
+do
+	echo "Hour: ${h}:"
+	min=1
+	while [ "$min" -le 59 ];
+	do
+		echo "${min}"
+		min="$((min+1))"
+	done
+	h="$((h+1))"
+done
