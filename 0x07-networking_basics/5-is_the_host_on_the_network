@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# script displays host IP address or pings the IP address given 5 times
+
+if [ "$#" -eq 0 ];
+then
+	echo "Usage: 5-is_the_host_on_the_network {IP_ADDRESS}"
+fi
+ping -c 5 "$1"
