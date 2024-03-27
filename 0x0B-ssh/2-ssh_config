@@ -1,7 +1,7 @@
 # configuration file for the local ssh client
 
 Host *
-     HostName 35.174.200.109
+     HostName 35.174.211.179
      User ubuntu
      PasswordAuthentication no
      IdentityFile ~/.ssh/school
