@@ -38,8 +38,8 @@ frontend clickviral-tech-frontend
 
 backend clickviral-tech-backend
     balance roundrobin
-    server 496406-web-01 35.174.211.179 check
-    server 496406-web-02 18.207.140.206 check
+    server 496406-web-01 35.174.211.179:80 check
+    server 496406-web-02 18.207.140.206:80 check
 "
 
 echo "$server_config" | sudo dd status=none of=/etc/haproxy/haproxy.cfg
