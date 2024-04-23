@@ -20,11 +20,13 @@ if __name__ == "__main__":
     with request.urlopen(todos_url + "?userId=" + employee_id) as response:
         todos_data = json.loads(response.read().decode('utf-8'))
 
-    completed_tasks = [todo['title'] for todo in todos_data if todo['completed']]
+    completed_tasks = [todo['title'] for todo in todos_data
+                       if todo['completed']]
     num_completed_tasks = len(completed_tasks)
     total_tasks = len(todos_data)
     employee_name = user_data['name']
 
-    print("Employee {} is done with tasks({}/{}):".format(employee_name, num_completed_tasks, total_tasks))
+    print("Employee {} is done with tasks({}/{}):".
+          format(employee_name, num_completed_tasks, total_tasks))
     for task in completed_tasks:
         print("\t {}".format(task))
